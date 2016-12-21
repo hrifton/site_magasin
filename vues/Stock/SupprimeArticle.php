@@ -1,1 +1,2 @@
-<h1>Supprimer Article</h1> 
+<h2>Supprimer Article</h2> 
+<?php
