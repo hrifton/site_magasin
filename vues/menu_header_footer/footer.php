@@ -1,0 +1,4 @@
+<footer>
+    info magasin 
+    
+</footer>
