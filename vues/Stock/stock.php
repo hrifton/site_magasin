@@ -1,5 +1,5 @@
 <h1>Stock</h1>
- 
+<!-- tout est a refaire mouahahhaha -->
 <?php
 
 $sql="select * from Stock";
